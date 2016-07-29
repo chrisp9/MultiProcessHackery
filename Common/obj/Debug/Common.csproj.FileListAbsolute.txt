@@ -1,0 +1,4 @@
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Common\bin\Debug\Common.dll
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Common\bin\Debug\Common.pdb
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Common\obj\Debug\Common.dll
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Common\obj\Debug\Common.pdb
