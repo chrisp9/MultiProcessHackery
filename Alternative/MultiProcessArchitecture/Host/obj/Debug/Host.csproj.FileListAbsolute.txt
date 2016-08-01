@@ -1,0 +1,14 @@
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Host\bin\Debug\Host.exe.config
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Host\bin\Debug\Host.exe
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Host\bin\Debug\Host.pdb
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Host\obj\Debug\MainWindow.g.cs
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Host\obj\Debug\App.g.cs
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Host\obj\Debug\Host_MarkupCompile.cache
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Host\obj\Debug\Host_MarkupCompile.lref
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Host\obj\Debug\MainWindow.baml
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Host\obj\Debug\Host.g.resources
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Host\obj\Debug\Host.Properties.Resources.resources
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Host\obj\Debug\Host.csproj.GenerateResource.Cache
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Host\obj\Debug\Host.exe
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Host\obj\Debug\Host.pdb
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache

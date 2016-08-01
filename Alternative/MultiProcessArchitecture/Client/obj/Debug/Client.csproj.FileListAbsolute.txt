@@ -1,0 +1,14 @@
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Client\bin\Debug\Client.exe.config
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Client\bin\Debug\Client.exe
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Client\bin\Debug\Client.pdb
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Client\obj\Debug\MainWindow.g.cs
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Client\obj\Debug\App.g.cs
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Client\obj\Debug\Client_MarkupCompile.cache
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Client\obj\Debug\Client_MarkupCompile.lref
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Client\obj\Debug\MainWindow.baml
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Client\obj\Debug\Client.g.resources
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Client\obj\Debug\Client.Properties.Resources.resources
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Client\obj\Debug\Client.exe
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Client\obj\Debug\Client.pdb
+G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

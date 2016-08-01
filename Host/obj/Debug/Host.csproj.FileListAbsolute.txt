@@ -12,3 +12,6 @@ G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Host\obj\Debug\Host.csp
 G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Host\obj\Debug\Host.exe
 G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Host\obj\Debug\Host.pdb
 G:\src\OutOfProcessArchitecture\MultiProcessArchitecture\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+G:\src\multiprocess\Host\bin\Debug\Host.exe.config
+G:\src\multiprocess\Host\obj\Debug\Host.exe
+G:\src\multiprocess\Host\obj\Debug\Host.pdb
